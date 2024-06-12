@@ -1,0 +1,255 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'poppins',sans-serif;
+}
+.inbox0{
+    text-align: right;
+    }
+.btn1{
+    background-color: #1d3d78;
+    border-radius: 5px;
+    border: 2px solid #fff;
+    padding: 2px 5px;
+}
+.nav-link{
+    font-size: 15px;
+}
+@media(max-width:576px){
+    .inbox0{
+        text-align: center;
+        }
+.inbox4{
+    text-align: justify;
+    }
+.btn1{
+    margin-left: 22%;
+}
+/* .blue{
+    /* padding: 100px 5px; */
+} */
+.inbox16{
+    text-align: center !important;
+}
+.inbox14{
+    text-align: center;
+}
+.inbox13{
+    text-align: center;
+}
+.inbox15{
+    margin: 5px;
+}
+  
+@media(max-width:768px){
+    .blue{
+        /* padding:308px 5px !important ;
+        height: 900px; */
+        align-items: center !important;
+        justify-content: center !important;
+        text-align: center !important;
+    }
+    .re{
+        font-size: 35px;
+        /* margin-top: 100px; */
+    }
+}
+.navbar{
+    background-color:#335594;
+}
+.banner{
+    background-image:url(light.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ban{
+    background-color: #4f7ccfda;
+}
+.inbox2{
+    text-align: center;
+    justify-content: center;
+    padding: 100px 0px !important;
+}
+.container-fluid{
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+.inbox3{
+    text-align: center;
+}
+.hr1{
+    border: 2px solid #4f7ccfda;
+    width: 7%;
+    margin: auto;
+         }
+.btn1{
+    background-color: #1d3d78;
+    color: #fff;
+}
+.b2{
+    background-color: #1d3d78;
+    color: #fff;
+    box-shadow: 1px 5px 5px #335594;
+}
+.whatdo{
+    background-color:#335594;
+    color: #fff;
+    padding: 25px;
+}
+.circle{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    border: 2px solid #FFF;
+    display: flex;
+    padding: 18px 18px;
+}
+.inbox6{
+    text-align: center;
+    display: flex;
+    margin: 10px;
+    padding-left: 25px;
+}
+.case{
+    background-color:#f5f5f5 ;
+}
+.inbox81{
+    background-image: url(apartment.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 450px;   
+    margin-top: 15px; 
+}
+.inbox82{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 450px;  
+    margin-top: 15px;             
+}
+.inbox83{
+    background-image: url(house.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+    margin-top: 15px;
+}
+.inbox7{
+    text-align: center;
+    color: #000;
+}
+.inbox8{
+    text-align: center;
+    /* margin: 5px; */
+   }
+.blue{
+    text-align: center;
+    background-color: #335594;
+    color: #FFF;
+    /* padding:195px 5px !important; */
+    height: 450px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+@media(max-width:992px){
+    .nav-link{
+        font-size: 12px;
+    }
+    .inbox16{
+        text-align:center!important;
+    }
+    .inbox14{
+        text-align: center;
+    }
+    .inbox13{
+        text-align: center;
+    }
+    .inbox15{
+        text-align: center;
+    }
+}
+@media(max-width:1199px){
+    .nav-link{
+        font-size: 12px;
+    }
+   
+   .inbox16{
+    text-align:center!important;
+}
+}
+.case{
+    background-color: #FFF;
+}
+.inbox9{
+    text-align: center;
+    margin: auto;
+    background-color: #fff;
+    color: #000;
+}
+.inbox10{
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    border: 1px solid wheat;
+    box-shadow: 2px 2px 2px grey;
+    margin-top: 10px;
+    min-height:550px;
+   }
+   .btn2{
+    background-color: #1d3d78;
+    border-radius: 5px;
+    border: 2px solid #fff;
+    padding: 2px 5px;
+    color: #FFF;
+}
+.inbox11{
+    text-align: center;
+    margin: auto;
+}
+.partner{
+    background-color: #fff;
+    border-top: 1px solid whitesmoke;
+}
+.inbox12{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin: 5px;
+    }
+.contact{
+    background-color: #335592;
+    color: #fff;
+    padding: 25px;
+    }
+::placeholder{
+    color: aliceblue !important;
+}
+.btn3{
+    background-color: #335592;
+    color: aliceblue;
+    border: 1px solid aliceblue;
+}
+.inbox14{
+    margin: 5px;
+}
+.inbox13{
+    text-align: left;
+}
+.inbox15{
+    margin: 5px;
+}
+.footer{
+    background-color:#1c3c77;
+    color: #FFF;
+}
+.inbox16{
+    text-align: start;
+}
+.overallsection{
+    overflow: hidden;
+}
